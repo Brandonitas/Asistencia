@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/asistencia"
+        android:title="Tomar asistencia"
+        ></item>
+
+    <item
+        android:id="@+id/nav_historial"
+        android:icon="@drawable/historial"
+        android:title="Tomar asistencia"
+        ></item>
+</menu>
